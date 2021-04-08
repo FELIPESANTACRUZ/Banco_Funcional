@@ -2,9 +2,9 @@
   API em NodeJS que simula algumas funcionalidades de um banco digital.  
  
  :books: **Tecnologias Utilizadas**
- *Nodejs
- *GraphQL
- *MongoDB
+ *Nodejs*
+ *GraphQL*
+ *MongoDB*
  
  :computer: 
  npm init -y /  yarn init --yes/-y <br/>  
